@@ -1,5 +1,6 @@
-Flask==3.0.0
-requests==2.31.0
-pycryptodome==3.20.0
-PyJWT==2.8.0
-protobuf==4.25.3
+Flaskm
+requests
+pycryptodome
+PyJWT
+protobuf
+
